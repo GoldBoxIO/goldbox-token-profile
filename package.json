@@ -1,0 +1,24 @@
+{
+  "name": "goldbox-token-profile",
+  "version": "1.0.0",
+  "description": "GoldBox is an integrated application that provides users with safe storage, digital asset mortgages, legal currency loans, and digital asset management. It also provides users with another way to exchange digital currency and real-life currency,relying on blockchain technology . The inconvenience of storing multiple types of digital currency, the complexity of redemption transaction process, poor value transmission, insufficient blockchain performance, and insufficient application scenarios, combined with its own blockchain and artificial intelligence technology to provide a powerful automated operating system , To create a world-class digital asset management platform based on user-centric ecology.",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "escape-string-regexp": "^1.0.5",
+    "pngjs": "^3.3.3"
+  },
+  "scripts": {
+    "test": "node ./test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoldBoxIO/goldbox-token-profile.git"
+  },
+  "author": "dev@goldbox.io",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GoldBoxIO/goldbox-token-profile/issues"
+  },
+  "homepage": "https://github.com/GoldBoxIO/goldbox-token-profile/#readme"
+}
